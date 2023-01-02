@@ -6,7 +6,7 @@
 - 📈 -->
 
 ## Hi there 👋
-### <div align="center">I'm Harish, a full-time full-stack freelance developer 👨‍💻 working remotely 🚀</div>
+### <div align="center">I'm Harish, a full-stack freelance developer 👨‍💻 working remotely 🚀</div>
 
 Glad to see you here!   
 
